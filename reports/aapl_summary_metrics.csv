@@ -1,0 +1,2 @@
+start_date,end_date,trading_days,start_price,end_price,total_return_pct,highest_price,highest_price_date,lowest_price,lowest_price_date,avg_daily_return_pct,annualized_volatility_pct,max_drawdown_pct,sharpe_ratio,best_day_pct,best_day_date,worst_day_pct,worst_day_date,latest_trend,latest_short_ma,latest_long_ma
+2025-11-20,2026-11-19,251,266.25,349.21,31.16,360.83,2026-11-13,243.42,2026-01-20,0.1209,24.95,-13.82,1.06,5.31,2026-11-04,-7.35,2026-07-31,Uptrend (Bullish),347.74,341.6

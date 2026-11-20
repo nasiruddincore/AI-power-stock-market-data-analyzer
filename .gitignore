@@ -1,0 +1,20 @@
+# Byte-compiled / virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local SQLite database (optional: keep sample CSVs in data/)
+*.db
+*.sqlite3
+
+# Jupyter checkpoints
+.ipynb_checkpoints/

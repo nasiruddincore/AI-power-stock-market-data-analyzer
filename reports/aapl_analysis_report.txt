@@ -1,0 +1,33 @@
+================================================================
+STOCK MARKET DATA ANALYZER REPORT — AAPL
+================================================================
+Data Source          : yfinance
+Analysis Window      : 2025-11-20 to 2026-11-19 (251 trading days)
+
+--- PRICE & TREND SUMMARY ---
+Starting Close Price : $266.25
+Latest Close Price   : $349.21
+Total Period Return  : +31.16%
+Period High          : $360.83 (on 2026-11-13)
+Period Low           : $243.42 (on 2026-01-20)
+Latest Short MA      : $347.74
+Latest Long MA       : $341.60
+Current Trend Regime : Uptrend (Bullish)
+
+--- RETURNS & RISK (VOLATILITY) SUMMARY ---
+Avg Daily Return     : +0.1209%
+Annualized Volatility: 24.95%
+Max Drawdown         : -13.82%
+Annualized Sharpe    : 1.06
+Best Single Day      : +5.31% (on 2026-11-04)
+Worst Single Day     : -7.35% (on 2026-07-31)
+
+--- OPTIONAL SMA CROSSOVER BACKTEST (LAGGED, WITH FEES) ---
+Strategy Return      : +10.22%
+Strategy Max DD      : -12.71%
+Strategy Sharpe      : 0.58
+Total Signals/Trades : 9
+Trade Win Rate       : 22.22%
+
+Disclaimer: Educational analysis only; not financial or investment advice.
+================================================================
